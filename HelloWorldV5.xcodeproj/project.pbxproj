@@ -23,14 +23,14 @@
 		971539BC13CB94C500313FB6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		971539BE13CB94C500313FB6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		971539C013CB94C500313FB6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		971539C413CB94C500313FB6 /* HelloWorldV5-Info.plist */ = {isa = PBXFileReference; path = "HelloWorldV5-Info.plist"; sourceTree = "<group>"; };
+		971539C413CB94C500313FB6 /* HelloWorldV5-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloWorldV5-Info.plist"; sourceTree = "<group>"; };
 		971539C613CB94C500313FB6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		971539C813CB94C500313FB6 /* HelloWorldV5-Prefix.pch */ = {isa = PBXFileReference; path = "HelloWorldV5-Prefix.pch"; sourceTree = "<group>"; };
+		971539C813CB94C500313FB6 /* HelloWorldV5-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloWorldV5-Prefix.pch"; sourceTree = "<group>"; };
 		971539C913CB94C500313FB6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		971539CB13CB94C500313FB6 /* HelloWorldV5AppDelegate.h */ = {isa = PBXFileReference; path = HelloWorldV5AppDelegate.h; sourceTree = "<group>"; };
+		971539CB13CB94C500313FB6 /* HelloWorldV5AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldV5AppDelegate.h; sourceTree = "<group>"; };
 		971539CC13CB94C500313FB6 /* HelloWorldV5AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldV5AppDelegate.m; sourceTree = "<group>"; };
 		971539CF13CB94C500313FB6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		971539D113CB94C500313FB6 /* HelloWorldV5ViewController.h */ = {isa = PBXFileReference; path = HelloWorldV5ViewController.h; sourceTree = "<group>"; };
+		971539D113CB94C500313FB6 /* HelloWorldV5ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldV5ViewController.h; sourceTree = "<group>"; };
 		971539D213CB94C500313FB6 /* HelloWorldV5ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldV5ViewController.m; sourceTree = "<group>"; };
 		971539D513CB94C500313FB6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/HelloWorldV5ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
