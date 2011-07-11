@@ -10,6 +10,20 @@
 
 @implementation HelloWorldV5ViewController
 
+@synthesize myLabel;
+@synthesize myButton;
+@synthesize myButtonv2;
+
+- (IBAction)buttonPressed:(id)sender
+{
+    [myLabel setText:@"Hello, World!"];
+}
+
+- (IBAction)buttonPressedv2:(id)sender
+{
+    [myLabel setText:@"Hello, World! V2"];
+}
+
 - (void)dealloc
 {
     [super dealloc];
